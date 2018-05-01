@@ -307,10 +307,6 @@ module.exports = {
 				position: 'above'
 			}
 		],
-		'linebreak-style': [
-			'error',
-			'unix'
-		],
 		'lines-between-class-members': 'error',
 		'max-lines': [
 			'error',
